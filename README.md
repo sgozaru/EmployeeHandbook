@@ -1,5 +1,5 @@
-# デンキヤギ株式会社 就業規則
-デンキヤギ株式会社で運用中の就業規則です。
+# 合同会社さくらもち 就業規則
+合同会社さくらもちで運用中の就業規則です。
 
 このコンテンツは、特に明示されている場合を除いて、次のライセンスに従います。
 
@@ -12,9 +12,9 @@
   To the extent possible under law,
   <a rel="dct:publisher"
      href="http://www.denkiyagi.jp/">
-    <span property="dct:title">デンキヤギ株式会社</span></a>
+    <span property="dct:title">合同会社さくらもち</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">デンキヤギ株式会社 就業規則</span>.
+  <span property="dct:title">合同会社さくらもち 就業規則</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="JP" about="http://www.denkiyagi.jp/">
