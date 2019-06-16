@@ -17,6 +17,6 @@
   <span property="dct:title">合同会社さくらもち 就業規則</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="JP" about="http://www.denkiyagi.jp/">
+      content="JP">
   日本</span>.
 </p>
